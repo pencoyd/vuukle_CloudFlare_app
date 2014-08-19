@@ -1,0 +1,43 @@
+{
+    
+    "name": "Vuukle",
+    "description": "Increase Traffic through Social Commenting",
+    "version": "0.01",
+    "category": "social sharing",
+    "main": "/javascripts/vuukle_cloudflare.js",
+    "config":{
+        "details":{
+            "Language": "English",
+            "Price": "Free",
+            "Restrictions": "None",
+            "TOS":"http://www.vuukle.com.com/terms",
+            "has_js": true
+        }, 
+        "assets":{
+            "logos" : {
+                "200px": "./images/vuukle-logo-200.png",
+                "132px": "./images/vuukle-logo-132.png"
+            },
+            "detail_page" : [
+                "./images/example.png"
+            ],
+            "images" : [
+                "./images/counter.png"
+            ]
+        },
+        "interface": [
+            {
+                "type": "string",
+                "id": "user_email",
+                "name": "User Email",
+                "description": "Please Enter the email you wish to signup with",
+                "domain_request": true,
+                "private": true
+            }
+        ]
+    },
+    "account": {
+        "callback_url": "http://vuukle.com/api.asmx/CFsignup",
+        "user_fields": ["email"]
+    }
+}
