@@ -1,1 +1,3 @@
-console.log('This would be the main JS file.');
+var url = 'https://www.vuukle.com/js/vuukleCF.js';
+        // load and execute file
+        CloudFlare.require([url]);

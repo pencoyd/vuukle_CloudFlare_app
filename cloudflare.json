@@ -15,8 +15,8 @@
         }, 
         "assets":{
             "logos" : {
-                "200px": "./images/vuukle-logo-200.png",
-                "132px": "./images/vuukle-logo-132.png"
+                "200px": "/images/vuukle-logo-200.png",
+                "132px": "/images/vuukle-logo-132.png"
             },
             "detail_page" : [
                 "./images/example.png"
