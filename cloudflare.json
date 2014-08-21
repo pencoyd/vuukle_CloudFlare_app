@@ -37,7 +37,6 @@
         ]
     },
     "account": {
-        "callback_url": "http://vuukle.com/api.asmx/CFsignup",
-        "user_fields": ["email"]
+        "callback_url": "http://vuukle.com/cfapi.asmx"
     }
 }
