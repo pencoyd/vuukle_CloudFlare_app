@@ -1,7 +1,7 @@
 {
     "name": "Vuukle",
     "description": "Increase Traffic through Social Commenting",
-    "version": "0.02",
+    "version": "0.03",
     "category": "social sharing",
     "main": "/javascripts/vuukle_cloudflare.js",
     "config":{
@@ -9,7 +9,7 @@
             "Language": "English",
             "Price": "Free",
             "Restrictions": "None",
-            "TOS":"http://www.vuukle.com.com/terms",
+            "TOS":"http://vuukle.com.com/terms",
             "has_js": true
         }, 
         "assets":{
@@ -20,6 +20,6 @@
         }
     },
     "account": {
-        "callback_url": "http://vuukle.com/cfapi.asmx"
+        "callback_url": "http://vuukle.com/cfh.ashx"
     }
 }
