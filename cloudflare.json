@@ -1,9 +1,9 @@
 {
     "name": "Vuukle",
     "description": "Increase Traffic through Social Commenting",
-    "version": "0.05",
+    "version": "0.06",
     "category": "social sharing",
-    "main": "/public/javascripts/vuukle_cloudflare.js",
+    "main": "./public/javascripts/vuukle_cloudflare.js",
     "config":{
         "details":{
             "Language": "English",
@@ -14,8 +14,8 @@
         }, 
         "assets":{
             "logos" : {
-                "200px": "/public/images/vuukle-logo-200.png",
-                "132px": "/public/images/vuukle-logo-132.png"
+                "200px": "./public/images/vuukle-logo-200.png",
+                "132px": "./public/images/vuukle-logo-132.png"
             }
         }
     },
