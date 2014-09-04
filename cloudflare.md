@@ -11,7 +11,4 @@ Social logins include
 
 You can enable moderation through the Manage Your App link in CloudFlare or logging in at http://vuukle.com
 
-#### Source code
-You may view source code of this app on [GitHub](https://github.com/vuukle/vuukle_CloudFlare_app).
-
 
