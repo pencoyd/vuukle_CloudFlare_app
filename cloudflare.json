@@ -1,7 +1,7 @@
 {
     "name": "Vuukle",
     "description": "Increase Traffic through Social Commenting",
-    "version": "0.03",
+    "version": "0.04",
     "category": "social sharing",
     "main": "/javascripts/vuukle_cloudflare.js",
     "config":{
