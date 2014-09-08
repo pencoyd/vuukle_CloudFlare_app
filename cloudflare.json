@@ -1,28 +1,28 @@
 {
     "name": "Vuukle",
-    "description": "Vuukle is the easiest way to increase traffic and decrease bounce rate on your website.	By simply switching on the Vuukle app on Cloudflare, a comments tab will be added to your website, so your audience can start engaging from anywhere on the page instantly. [learn more](https://www.cloudflare.com/apps/vuukle)",
+    "description": "Vuukle is the easiest way to increase traffic and decrease bounce rate on your website. By simply switching on the Vuukle app on Cloudflare, a comments tab will be added to your website, so your audience can start engaging from anywhere on the page instantly. [learn more](https://www.cloudflare.com/apps/vuukle)",
     "version": "0.08",
     "category": "social sharing",
     "main": "./public/javascripts/vuukle_cloudflare.js",
-    "config":{
-        "details":{
+    "config": {
+        "details": {
             "Language": "English",
             "Price": "Free",
             "Restrictions": "None",
-            "TOS":"http://vuukle.com/terms",
+            "TOS": "http://vuukle.com/terms",
             "has_js": true
-        }, 
-        "assets":{
-            "logos" : {
+        },
+        "assets": {
+            "logos": {
                 "200px": "./public/images/vuukle-logo-200.png",
                 "132px": "./public/images/vuukle-logo-132.png"
             },
-        "detail_page" : [
-        	"./public/images/analytics.png",
-			"./public/images/gamification.png",
-			"./public/images/howitworks.png",
-			"./public/images/most_engaged_stories.png",
-			"./public/images/user_anonymity.png"		
+            "detail_page": [
+                "./public/images/analytics.png",
+                "./public/images/gamification.png",
+                "./public/images/howitworks.png",
+                "./public/images/most_engaged_stories.png",
+                "./public/images/user_anonymity.png"
             ]
         }
     },
