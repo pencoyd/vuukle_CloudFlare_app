@@ -1,7 +1,7 @@
 {
     "name": "Vuukle",
     "description": "Vuukle is the easiest way to increase traffic and decrease bounce rate on your website. By simply switching on the Vuukle app on Cloudflare, a comments tab will be added to your website, so your audience can start engaging from anywhere on the page instantly. [learn more](https://www.cloudflare.com/apps/vuukle)",
-    "version": "0.08",
+    "version": "0.09",
     "category": "social sharing",
     "main": "./public/javascripts/vuukle_cloudflare.js",
     "config": {
