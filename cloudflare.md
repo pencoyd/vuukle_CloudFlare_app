@@ -2,14 +2,14 @@ Vuukle is the easiest way to increase traffic and decrease bounce rate on your w
 
 ##Why Vuukle
 
-	*	Automatic one click installation button
-	*	No copy-pasting of codes
-	*	Witness an instantaneous increase in user engagement and traffic with our user friendly interface
-	*	Everytime user engages  on your website, vuukle automatically sends notification emails with 10 most engaged articles on your site.
-	*	Vuukle scans and profiles user interests and recommends most relevant content based on user's behaviour across the web. 
-	*	Give user the flexibility to remain anonymous, or to login through major social media networks.
-	*	Benefit from Vuukle Gamification: User starts earning points from day 1 based on their engagement on your site: Blue, silver and gold.
-	*	Give your audience a blazing fast unintrusive experience at ZERO cost.
+1.	Automatic one click installation button
+2.	No copy-pasting of codes
+3.	Witness an instantaneous increase in user engagement and traffic with our user friendly interface
+4.	Everytime user engages  on your website, vuukle automatically sends notification emails with 10 most engaged articles on your site.
+5.	Vuukle scans and profiles user interests and recommends most relevant content based on user's behaviour across the web. 
+6.	Give user the flexibility to remain anonymous, or to login through major social media networks.
+7.	Benefit from Vuukle Gamification: User starts earning points from day 1 based on their engagement on your site: Blue, silver and gold.
+8.	Give your audience a blazing fast unintrusive experience at ZERO cost.
 
 	
 	
@@ -58,9 +58,9 @@ Simply install Vuukle by switching on the Vuukle Cloudflare app.
 
 
 ##Benefits of Vuukle
-	*	Vuukle provides solutions to increase user engagement and decrease bounce rate.
-	*	Use Vuukle to enhance user experience and provide a personalised and blazing fast experience to your users.
-	*	Use our analytics to learn more about your users and benefit from user insights.
+1.	Vuukle provides solutions to increase user engagement and decrease bounce rate.
+2.	Use Vuukle to enhance user experience and provide a personalised and blazing fast experience to your users.
+3.	Use our analytics to learn more about your users and benefit from user insights.
 	
 	
 Vuukle is the easiest way to increase traffic and decrease bounce rate on your website. By simply switching on the Vuukle app on Cloudflare, a comments tab will be added to your website, so your audience can start engaging from anywhere on the page unobtrusively.
